@@ -1,0 +1,19 @@
+*{
+    font-family: 'Bebas Neue', cursive;
+}
+
+.div-container{
+    display: flex;
+    justify-content: flex-end;
+    background-color: rgb(15, 73, 180);
+    border: 3px black solid;
+    color: white;
+}
+
+.div-container div {
+    padding-left: 20px;
+    padding-right: 20px;
+}
+h3 {
+    cursor: grab;
+}
